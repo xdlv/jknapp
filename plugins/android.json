@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.igecono"
+        },
+        "cordova-plugin-wechat": {
+            "WECHATAPPID": "wxfb177b648d500632",
+            "PACKAGE_NAME": "com.igecono"
+        }
+    },
+    "dependent_plugins": {}
+}
